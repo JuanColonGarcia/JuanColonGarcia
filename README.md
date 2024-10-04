@@ -18,12 +18,15 @@
 - **Live style:** I enjoy using software to `solve` every problem and optimize `digital processes`:technologist:.
 
 -  **Actually:** Postdegree student in `Computer Science` and `Software Engineering` at [UPV](https://www.upv.es) :student:.
-  
+
+-   **Experience:** Engineer intership worker at `SNA-Europe` (3 years) 🔥 | IT Customers Service at `Stripe` (1 year) ⚡ .
+
 - **Lenguages:** Native Spanish | English C1  :lips:
   
 - **Job:** I’m currently open for a new `job opportunity` 🏢, this is [MY RESUME](https://drive.google.com/file/d/1NgwIpS4V9a5mRAuqlEy30MCnDbPlnZuZ/view?usp=sharing) 
 📝.
 -   **Hobbies:** I'm a `friki` of football :soccer: and surfing :surfer:, `Good waves come to those who wait`.
+
 
 <br>
 
