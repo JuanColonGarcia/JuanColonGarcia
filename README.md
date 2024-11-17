@@ -1,12 +1,11 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Juan+Carlos+%F0%9F%91%8B;Digital+Industry+Engineer;Masters+Student+Software+Systems;Data+Science+Enthusiast;" alt="Headline" />
-</div>
+![Juan Carlos Colon Banner]()
 
-</div>
-<div align="left">
-    <br>
 
-  
+
+<h1> Hey there! I'm Juan Carlos Colon <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+    
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
