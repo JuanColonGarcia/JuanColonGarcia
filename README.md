@@ -1,6 +1,4 @@
-![Juan Carlos Colon Banner]()
-
-
+![Juan Carlos Colon Banner](https://github.com/JuanColonGarcia/JuanColonGarcia/blob/main/Juan_Fondo.png)
 
 <h1> Hey there! I'm Juan Carlos Colon <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
