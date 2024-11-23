@@ -20,7 +20,7 @@
 
 - **Lenguages:** Native Spanish | English C1  :lips:
   
-- **Job:** I’m currently open for a new `job opportunity` 🏢, this is [MY RESUME](https://drive.google.com/drive/folders/1lHL4ciqlVCV3-QvWbH0W1YlWogCx71nv?hl=es-419) 
+- **Job:** I’m currently open for a new `job opportunity` 🏢, this is [MY RESUME](https://drive.google.com/drive/my-drive?hl=es-419) 
 📝.
 -   **Hobbies:** I'm a `friki` of football :soccer: and surfing :surfer:, `Good waves come to those who wait`.
 
