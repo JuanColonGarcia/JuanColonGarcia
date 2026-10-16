@@ -129,7 +129,7 @@ My experience combines technical problem-solving, data analysis, software techno
 <!-- TECH STACK -->
 <!-- ================================================== -->
 
-## `03` — Tech stack
+<h2>🔧 Tech stack</h2>
 
 <details open>
 <summary><strong>Programming & development</strong></summary>
@@ -199,17 +199,17 @@ My experience combines technical problem-solving, data analysis, software techno
 <!-- EDUCATION & CONTACT -->
 <!-- ================================================== -->
 
-## `04` — Background
+<h2>🧑‍💻 Background</h2>
 
 - 🎓 **MSc in Software Systems Engineering** — Universitat Politècnica de València
 - 🎓 **BSc in Industrial Digital Engineering** — University of Deusto
-- 🌍 **Professional experience** — AIDIMME, Stripe and SNA Europe
+- 💼 **Professional experience** — AIDIMME, Stripe and SNA Europe
 
 ---
 
 <div align="center">
 
-### Let's connect
+<h2>🤝 Let's connect!</h2>
 
 Interested in software engineering, AI, data-driven solutions and digital innovation.
 
