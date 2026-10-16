@@ -3,134 +3,127 @@
 <!-- HERO -->
 <!-- ================================================== -->
 
+
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/JuanColonGarcia/JuanColonGarcia/main/background_JCC.png"
-       width="100%"
-       alt="Juan Carlos Colon - Developer Banner"/>
+  <img
+    src="https://raw.githubusercontent.com/JuanColonGarcia/JuanColonGarcia/main/background_JCC.png"
+    width="100%"
+    alt="Juan Carlos Colon - Developer Banner"
+  />
 
   <h1>Juan Carlos Colón García</h1>
 
-  <h3>Technical Project Engineer · Software · AI & Data</h3>
+  <h3>Technical Project Engineer | Software Engineering | AI &amp; Data</h3>
 
-  <p>
-    Building digital solutions at the intersection of software engineering,
-    artificial intelligence and industrial innovation.
-  </p>
+  <p><em>Building digital solutions at the intersection of software engineering, artificial intelligence and industrial innovation.</em></p>
 
   <a href="https://www.linkedin.com/in/juancarloscolongarcia/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:jccolongar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/JuanColonGarcia">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/10Za4YE7C-H43_QyMa0nSTMAxC-KQrOjX/view?usp=sharing">
+    <img src="https://img.shields.io/badge/My_Resume-64748B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="My Resume"/>
+  </a>
+
 
 </div>
 
 <br>
 
+
 <!-- ================================================== -->
 <!-- ABOUT -->
 <!-- ================================================== -->
 
-## `01` — About me
 
-<table>
-<tr>
-<td width="58%" valign="top">
 
-I'm a **Digital Industry Engineer** with an MSc in Software Systems Engineering from Universitat Politècnica de València.
+## 👤 About me
+
+<img align="right" width="360" src="about-card.svg" alt="Focus areas and languages"/>
+
+I'm a Digital Industry Engineer with an MSc in Software Systems Engineering from Universitat Politècnica de València.
 
 Currently, I work as a **Technical Project Engineer at AIDIMME**, contributing to European digital transformation projects involving software integration, data interoperability and intelligent industrial systems.
 
 My experience combines technical problem-solving, data analysis, software technologies and coordination between technical teams and international stakeholders.
 
-</td>
-<td width="42%" valign="top">
+<br clear="right"/>
 
-**FOCUS AREAS**
 
-- Artificial Intelligence & NLP
-- Software Engineering
-- Data Analysis & Visualization
-- Industrial IoT & Interoperability
-- Technical Project Coordination
-
-**LANGUAGES**
-
-- Spanish — Native
-- English — C1
-- Basque — B2
-
-</td>
-</tr>
-</table>
 
 <!-- ================================================== -->
 <!-- FEATURED PROJECTS -->
 <!-- ================================================== -->
 
-## `02` — Selected work
+
+<!-- ==================== HIGHLIGHTED PROJECTS ==================== -->
+
+
+<!-- HIGHLIGHTED PROJECTS -->
+
+<h2>📂 Highlighted Projects</h2>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 Bluesky Explorer
-
-An interactive application for analysing sentiment and user dynamics on Bluesky, using the Spanish blackout of April 2025 as a case study.
-
-**Built with**
-
-`Python` `NLP` `Pandas` `Streamlit`
-
-<a href="https://github.com/JuanColonGarcia/tfm-bluesky-an-lisis">
-  <img src="https://img.shields.io/badge/Explore%20Repository-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore Bluesky Explorer repository"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏭 Industrial Digitalisation
-
-Technical work on European projects involving digital transformation, data integration, interoperability and intelligent industrial systems.
-
-**Areas**
-
-`APIs` `Data` `IoT` `Digital Systems`
-
-Experience includes CIR4FUN and NARRATE at AIDIMME.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Industrial Monitoring
-
-Development of a real-time industrial monitoring system and data-analysis workflows to identify operational trends and technical issues.
-
-**Technologies**
-
-`Python` `SQL Server` `Power BI` `Grafana`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔌 Software Integration
-
-Technical troubleshooting, API-related issues and integration support, translating complex problems into actionable solutions for customers and engineering teams.
-
-**Areas**
-
-`APIs` `SQL` `Debugging` `Problem-solving`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦋 Bluesky Explorer</h3>
+      <p>Interactive application for analysing sentiment and user dynamics on Bluesky, using the Spanish blackout of April 2025 as a case study.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/NLP-845EC2?style=flat-square" alt="NLP"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"/>
+      </p>
+      <a href="https://github.com/JuanColonGarcia/tfm-bluesky-an-lisis">
+        <img src="https://img.shields.io/badge/↗_View_project-0969DA?style=flat-square" alt="View project"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏭 Industrial Digitalisation</h3>
+      <p>Technical contributions to European projects involving digital transformation, data integration, interoperability and intelligent industrial systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Data-0D9488?style=flat-square" alt="Data"/>
+        <img src="https://img.shields.io/badge/IoT-64748B?style=flat-square" alt="IoT"/>
+        <img src="https://img.shields.io/badge/Digital_Systems-6F42C1?style=flat-square" alt="Digital systems"/>
+        <img src="https://img.shields.io/badge/APIs-0969DA?style=flat-square" alt="APIs"/>
+      </p>
+      <p><strong>Projects:</strong> CIR4FUN · NARRATE</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Industrial Monitoring</h3>
+      <p>Development of a real-time industrial monitoring system and data-analysis workflows to identify operational trends and technical issues.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="Power BI"/>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white" alt="Grafana"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 Software Integration</h3>
+      <p>Technical troubleshooting, API-related issues and integration support, translating complex problems into actionable solutions for customers and engineering teams.</p>
+      <p>
+        <img src="https://img.shields.io/badge/APIs-0969DA?style=flat-square" alt="APIs"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL"/>
+        <img src="https://img.shields.io/badge/Debugging-64748B?style=flat-square" alt="Debugging"/>
+        <img src="https://img.shields.io/badge/Problem_Solving-0D9488?style=flat-square" alt="Problem solving"/>
+      </p>
+    </td>
+  </tr>
 </table>
+
+
 
 <!-- ================================================== -->
 <!-- TECH STACK -->
