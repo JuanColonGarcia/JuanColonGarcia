@@ -1,25 +1,29 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="225" viewBox="0 0 360 225">
-  <rect x="1" y="1" width="358" height="223" rx="12" fill="#f6f8fa" stroke="#d8dee4"></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="240" viewBox="0 0 360 240">
+  <rect x="1" y="1" width="358" height="238" rx="12" fill="#f6f8fa" stroke="#d8dee4"></rect>
 
   <g font-family="Arial, Helvetica, sans-serif" fill="#24292f">
-    <text x="18" y="29" font-size="15" font-weight="bold">🎯 Focus areas</text>
+    <!-- Focus areas -->
+    <text x="18" y="27" font-size="14" font-weight="bold">🎯 Focus areas</text>
 
-    <g font-size="12.5">
-      <text x="20" y="52">•  Artificial Intelligence &amp; NLP</text>
-      <text x="20" y="72">•  Software Engineering</text>
-      <text x="20" y="92">•  Data Analysis &amp; Visualization</text>
-      <text x="20" y="112">•  Industrial IoT &amp; Interoperability</text>
-      <text x="20" y="132">•  Technical Project Coordination</text>
+    <g font-size="12">
+      <text x="20" y="49">• Artificial Intelligence &amp; NLP</text>
+      <text x="20" y="67">• Software Engineering</text>
+      <text x="20" y="85">• Data Analysis &amp; Visualization</text>
+      <text x="20" y="103">• Industrial IoT &amp; Interoperability</text>
+      <text x="20" y="121">• Technical Project Coordination</text>
     </g>
 
-    <line x1="18" y1="151" x2="342" y2="151" stroke="#d1d9e0" stroke-width="1"></line>
+    <!-- Divider -->
+    <line x1="18" y1="140" x2="342" y2="140" stroke="#d1d9e0" stroke-width="1"></line>
 
-    <text x="18" y="176" font-size="15" font-weight="bold">🌍 Languages</text>
+    <!-- Languages -->
+    <text x="18" y="163" font-size="14" font-weight="bold">🌍 Languages</text>
 
-    <g font-size="12.5">
-      <text x="20" y="197">•  Spanish — Native</text>
-      <text x="20" y="215">•  English — C1  ·  Basque — B2</text>
+    <g font-size="12">
+      <text x="20" y="183">• Spanish — Native</text>
+      <text x="20" y="201">• English — C1</text>
+      <text x="20" y="219">• Basque — B2</text>
     </g>
   </g>
 </svg>
