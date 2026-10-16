@@ -1,111 +1,235 @@
-![Juan Carlos Colon Banner](https://github.com/JuanColonGarcia/JuanColonGarcia/blob/main/Juan_Fondo.png)
 
-<h1> Hey there! I'm Juan Carlos Colon <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-    
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<!-- ================================================== -->
+<!-- HERO -->
+<!-- ================================================== -->
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<div align="center">
 
-<br>
+  <img src="https://raw.githubusercontent.com/JuanColonGarcia/JuanColonGarcia/main/Juan_Fondo.png"
+       width="100%"
+       alt="Juan Carlos Colon - Developer Banner"/>
 
-- **Studies:** I am a `Digital Industry Engineer` 💻from [UD](https://www.deusto.es/es/inicio/) 🏫.
-  
-- **Live style:** I enjoy using software to `solve` every problem and optimize `digital processes`:technologist:.
+  <h1>Juan Carlos Colón García</h1>
 
--  **Actually:** Postdegree student in `Computer Science` and `Software Engineering` at [UPV](https://www.upv.es) :student:.
+  <h3>Technical Project Engineer · Software · AI & Data</h3>
 
--   **Experience:** Engineer intership worker at `SNA-Europe` (3 years) 🔥 | IT Customers Service at `Stripe` (1 year) ⚡ .
+  <p>
+    Building digital solutions at the intersection of software engineering,
+    artificial intelligence and industrial innovation.
+  </p>
 
-- **Lenguages:** Native Spanish | English C1  :lips:
-  
-- **Job:** I’m currently open for a new `job opportunity` 🏢, this is [MY RESUME](https://drive.google.com/file/d/14Di2LbemiJUNtOmzvNpjwtErLTmFcUWv/view?usp=sharing) 
-📝.
--   **Hobbies:** I'm a `friki` of football :soccer: and surfing :surfer:, `Good waves come to those who wait`.
+  <a href="https://www.linkedin.com/in/juancarloscolongarcia/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jccolongar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/JuanColonGarcia">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Skills
-
-<br>
-
-<h4> 📚 Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-</span>
-
-<h4> 📄 Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</span>
-
-<h4> 💾 Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"
-</span>
-
-<h4>💻 IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-<h4> 🎛️ Operating System </h4>
-<span>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</span>
-
-<h4> 🖥️ ML/DL </h4>
-<span>
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-</span>
-<h4> ☁️ Hosting/SaaS </h4>
-<span>
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-
-</span>
-<h4> 🔎 Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white
-">
-
-</span>
-
-## <img src="https://media.giphy.com/media/lodecc4WhreCyq1HKt/giphy.gif?cid=790b7611t3r1aqrb0o16ynwlu09xq3t6huexatkiivlegh2f&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70px">&nbsp; Let's Connect..!
-
-<br>
-
-<div align="left">
-    <a href="https://www.linkedin.com/in/juancarloscolongarcia/">
-        <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:jccolongar@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
-    </a>
-    <a href= "https://github.com/JuanColonGarcia?tab=followers">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/JuanColonGarcia">
-    </a>
 </div>
+
+<br>
+
+<!-- ================================================== -->
+<!-- ABOUT -->
+<!-- ================================================== -->
+
+## `01` — About me
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I'm a **Digital Industry Engineer** with an MSc in Software Systems Engineering from Universitat Politècnica de València.
+
+Currently, I work as a **Technical Project Engineer at AIDIMME**, contributing to European digital transformation projects involving software integration, data interoperability and intelligent industrial systems.
+
+My experience combines technical problem-solving, data analysis, software technologies and coordination between technical teams and international stakeholders.
+
+</td>
+<td width="42%" valign="top">
+
+**FOCUS AREAS**
+
+- Artificial Intelligence & NLP
+- Software Engineering
+- Data Analysis & Visualization
+- Industrial IoT & Interoperability
+- Technical Project Coordination
+
+**LANGUAGES**
+
+- Spanish — Native
+- English — C1
+- Basque — B2
+
+</td>
+</tr>
+</table>
+
+<!-- ================================================== -->
+<!-- FEATURED PROJECTS -->
+<!-- ================================================== -->
+
+## `02` — Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 Bluesky Explorer
+
+An interactive application for analysing sentiment and user dynamics on Bluesky, using the Spanish blackout of April 2025 as a case study.
+
+**Built with**
+
+`Python` `NLP` `Pandas` `Streamlit`
+
+<a href="https://github.com/JuanColonGarcia/tfm-bluesky-an-lisis">
+  <img src="https://img.shields.io/badge/Explore%20Repository-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore Bluesky Explorer repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Industrial Digitalisation
+
+Technical work on European projects involving digital transformation, data integration, interoperability and intelligent industrial systems.
+
+**Areas**
+
+`APIs` `Data` `IoT` `Digital Systems`
+
+Experience includes CIR4FUN and NARRATE at AIDIMME.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Industrial Monitoring
+
+Development of a real-time industrial monitoring system and data-analysis workflows to identify operational trends and technical issues.
+
+**Technologies**
+
+`Python` `SQL Server` `Power BI` `Grafana`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 Software Integration
+
+Technical troubleshooting, API-related issues and integration support, translating complex problems into actionable solutions for customers and engineering teams.
+
+**Areas**
+
+`APIs` `SQL` `Debugging` `Problem-solving`
+
+</td>
+</tr>
+</table>
+
+<!-- ================================================== -->
+<!-- TECH STACK -->
+<!-- ================================================== -->
+
+## `03` — Tech stack
+
+<details open>
+<summary><strong>Programming & development</strong></summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+</details>
+
+<details>
+<summary><strong>Databases & data engineering</strong></summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
+</p>
+</details>
+
+<details>
+<summary><strong>AI, machine learning & analytics</strong></summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-6C5CE7?style=flat-square" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/NLP-5865F2?style=flat-square" alt="NLP"/>
+  <img src="https://img.shields.io/badge/LLMs-845EC2?style=flat-square" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Data%20Mining-008F8C?style=flat-square" alt="Data Mining"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3670A0?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+</p>
+</details>
+
+<details>
+<summary><strong>Cloud, integration & project delivery</strong></summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/APIs-36658C?style=flat-square" alt="APIs"/>
+  <img src="https://img.shields.io/badge/JSON-555555?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/Agile%2FScrum-43A047?style=flat-square" alt="Agile and Scrum"/>
+  <img src="https://img.shields.io/badge/Interoperability-008F8C?style=flat-square" alt="Interoperability"/>
+</p>
+</details>
+
+<!-- ================================================== -->
+<!-- EDUCATION & CONTACT -->
+<!-- ================================================== -->
+
+## `04` — Background
+
+- 🎓 **MSc in Software Systems Engineering** — Universitat Politècnica de València
+- 🎓 **BSc in Industrial Digital Engineering** — University of Deusto
+- 🌍 **Professional experience** — AIDIMME, Stripe and SNA Europe
+
+---
+
+<div align="center">
+
+### Let's connect
+
+Interested in software engineering, AI, data-driven solutions and digital innovation.
+
+<a href="https://www.linkedin.com/in/juancarloscolongarcia/">
+  <img src="https://img.shields.io/badge/LinkedIn-Get%20in%20touch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:jccolongar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email"/>
+</a>
 
 <br><br>
 
+<sub>Building, learning and connecting technology with real-world problems.</sub>
 
------
-Credits: [Juan Carlos Colon](https://github.com/JuanColonGarcia)
+</div>
 
-Last Edited on: 04/10/2024
