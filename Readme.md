@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/JuanColonGarcia/JuanColonGarcia/main/Juan_Fondo.png"
+  <img src="https://raw.githubusercontent.com/JuanColonGarcia/JuanColonGarcia/main/background.png"
        width="100%"
        alt="Juan Carlos Colon - Developer Banner"/>
 
