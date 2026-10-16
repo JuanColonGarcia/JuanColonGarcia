@@ -7,7 +7,7 @@
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/JuanColonGarcia/JuanColonGarcia/main/background_JCC.png"
+    src="img/background_JCC.png"
     width="100%"
     alt="Juan Carlos Colon - Developer Banner"
   />
@@ -48,7 +48,7 @@
 
 ## 👤 About me
 
-<img align="right" width="360" src="about-card.svg" alt="Focus areas and languages"/>
+<img align="right" width="360" src="img/about_card.svg" alt="Focus areas and languages"/>
 
 I'm a Digital Industry Engineer with an MSc in Software Systems Engineering from Universitat Politècnica de València.
 
